@@ -9,6 +9,7 @@ function Footer () {
                         <h5>Social</h5>
                         <a className="btn btn-github" href="http://github.com/"><i className="fa fa-github-square" /></a>
                         <a className="btn btn-linkedin" href="http://www.linkedin.com/"><i className="fa fa-linkedin" /></a>
+                        Created by Christian
                     </div>
                 </div>
             </div>
